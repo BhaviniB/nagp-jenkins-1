@@ -88,11 +88,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bhavinibatra\\Desktop\\Hello-World-DotNetCore-master\\Hello-World-DotNetCore-master\\WebApplication4\\WebApplication4.csproj",
+      "projectUniqueName": "D:\\NAGP\\Jenkins\\nagp-jenkins-1\\Hello-World-DotNetCore-master\\WebApplication4\\WebApplication4.csproj",
       "projectName": "WebApplication4",
-      "projectPath": "C:\\Users\\bhavinibatra\\Desktop\\Hello-World-DotNetCore-master\\Hello-World-DotNetCore-master\\WebApplication4\\WebApplication4.csproj",
+      "projectPath": "D:\\NAGP\\Jenkins\\nagp-jenkins-1\\Hello-World-DotNetCore-master\\WebApplication4\\WebApplication4.csproj",
       "packagesPath": "C:\\Users\\bhavinibatra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bhavinibatra\\Desktop\\Hello-World-DotNetCore-master\\Hello-World-DotNetCore-master\\WebApplication4\\obj\\",
+      "outputPath": "D:\\NAGP\\Jenkins\\nagp-jenkins-1\\Hello-World-DotNetCore-master\\WebApplication4\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

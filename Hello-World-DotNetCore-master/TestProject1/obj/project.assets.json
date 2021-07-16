@@ -5659,11 +5659,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bhavinibatra\\Desktop\\Hello-World-DotNetCore-master\\Hello-World-DotNetCore-master\\TestProject1\\TestProject1.csproj",
+      "projectUniqueName": "D:\\NAGP\\Jenkins\\nagp-jenkins-1\\Hello-World-DotNetCore-master\\TestProject1\\TestProject1.csproj",
       "projectName": "TestProject1",
-      "projectPath": "C:\\Users\\bhavinibatra\\Desktop\\Hello-World-DotNetCore-master\\Hello-World-DotNetCore-master\\TestProject1\\TestProject1.csproj",
+      "projectPath": "D:\\NAGP\\Jenkins\\nagp-jenkins-1\\Hello-World-DotNetCore-master\\TestProject1\\TestProject1.csproj",
       "packagesPath": "C:\\Users\\bhavinibatra\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bhavinibatra\\Desktop\\Hello-World-DotNetCore-master\\Hello-World-DotNetCore-master\\TestProject1\\obj\\",
+      "outputPath": "D:\\NAGP\\Jenkins\\nagp-jenkins-1\\Hello-World-DotNetCore-master\\TestProject1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
