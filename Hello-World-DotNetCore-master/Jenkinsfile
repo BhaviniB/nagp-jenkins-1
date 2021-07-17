@@ -42,7 +42,7 @@ pipeline {
     }
     stage('Automated Unit Testing') {
       steps {
-        bat 'dotnet test Hello-World-DotNetCore-master\\WebApplication4\\WebApplication4.csproj -l:trx'
+        bat 'dotnet test Hello-World-DotNetCore-master'
 
       }
     }
